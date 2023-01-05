@@ -1,4 +1,4 @@
-# You Only Need Adversarial Supervision for Semantic Image Synthesis
+# Dual Pyramid Generative Adversarial Networks for Semantic Image Synthesis
 
 Official PyTorch implementation of the BMVC  2022 paper "Dual Pyramid Generative Adversarial Networks for Semantic Image Synthesis
 ". The code allows the users to
@@ -44,6 +44,10 @@ If you use this work please cite
   year={2022}
 }   
 ```
+
+## Acknowledgement
+
+This code is based on [https://github.com/boschresearch/OASIS](OASIS)
 
 ## License
 
