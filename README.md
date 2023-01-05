@@ -32,6 +32,12 @@ For Cityscapes or ADE20K, please follow the instructions for the dataset prepara
 
 Please refer to the scripts in ```./scripts```
 
+## Results
+Our method outperforms previous methods on almost all metrics
+
+<p align="center">
+<img src="figs/results.png" >
+</p>
 
 
 ## Citation
